@@ -3,7 +3,7 @@
     <title>Arte y comunicación</title>
     <link href="https://sarapardo08.github.io/sarapardo-arte-comunicacion/feed.xml" rel="self" />
     <link href="https://sarapardo08.github.io/sarapardo-arte-comunicacion" />
-    <updated>2026-02-22T05:33:30-05:00</updated>
+    <updated>2026-02-26T02:26:34-05:00</updated>
     <author>
         <name>Sara Pardo Gutiérrez</name>
     </author>
@@ -16,17 +16,21 @@
         </author>
         <link href="https://sarapardo08.github.io/sarapardo-arte-comunicacion/composicion-visual-en-inkscape.html"/>
         <id>https://sarapardo08.github.io/sarapardo-arte-comunicacion/composicion-visual-en-inkscape.html</id>
+        <media:content url="https://sarapardo08.github.io/sarapardo-arte-comunicacion/media/posts/2/PARDOcomposicioninkscape.svg" medium="image" />
             <category term="Composición visual"/>
 
         <updated>2026-02-22T05:33:30-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    La composición que decidí realizar en inkscape, más allá de ser una&hellip;
+                        <img src="https://sarapardo08.github.io/sarapardo-arte-comunicacion/media/posts/2/PARDOcomposicioninkscape.svg" alt="Gallina libre" />
+                    Esta fue la primera vez que realicé una composición visual en inkscape,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>La composición que decidí realizar en inkscape, más allá de ser una exploración del instrumento por primera vez, decidí dedicarme a la creación de la representación de mis sentimientos recientemente.</p>
+                    <p><img src="https://sarapardo08.github.io/sarapardo-arte-comunicacion/media/posts/2/PARDOcomposicioninkscape.svg" class="type:primaryImage" alt="Gallina libre" /></p>
+                <p>Esta fue la primera vez que realicé una composición visual en inkscape, fue principalmente una exploración de este medio de ilustración vectorial dado que no me relacionaba demasiado con los diferentes elementos de allí. La composición pese a estar realizada netamente de elementos primitivos, decidí dedicarme a la creación de un escenario en la que protagoniza una gallina dentro de una jaula. La empleo como alegoría de mi estado actual en el que pese a tener la capacidad de ver el cielo y poder ver lo que es la libertad, me quedo encerrada en una malla eslabonada. Hice uso de los cuatro tipos de transformaciones de los elementos primitivos por medio de la exploración de las diferentes figuras: rotarlas, recortarlas, cambiar su color y saturación, disponerlas de diferentes maneras en el espacio, cambiarlas de tamaño y juntarlas, así al lograr una composición visual como resultado final. </p>
+<p> </p>
             ]]>
         </content>
     </entry>
