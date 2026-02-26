@@ -1,1 +1,0 @@
-# sarapardo-arte-comunicacion

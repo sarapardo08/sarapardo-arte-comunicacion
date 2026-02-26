@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://sarapardo08.github.io/sarapardo-arte-comunicacion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://sarapardo08.github.io/sarapardo-arte-comunicacion/</loc>
+</url>
+<url>
+<loc>https://sarapardo08.github.io/sarapardo-arte-comunicacion/acerca-de-mi.html</loc>
+<lastmod>2026-02-22T05:30:15-05:00</lastmod>
+<image:image>
+<image:loc>https://sarapardo08.github.io/sarapardo-arte-comunicacion/media/posts/1/WhatsApp-Image-2026-02-22-at-5.27.52-AM.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sarapardo08.github.io/sarapardo-arte-comunicacion/composicion-visual-en-inkscape.html</loc>
+<lastmod>2026-02-22T05:33:30-05:00</lastmod>
+</url>
+</urlset>

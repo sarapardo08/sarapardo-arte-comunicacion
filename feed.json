@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://sarapardo08.github.io/sarapardo-arte-comunicacion",
+    "feed_url": "https://sarapardo08.github.io/sarapardo-arte-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sara Pardo Gutiérrez"
+    },
+    "items": [
+        {
+            "id": "https://sarapardo08.github.io/sarapardo-arte-comunicacion/composicion-visual-en-inkscape.html",
+            "url": "https://sarapardo08.github.io/sarapardo-arte-comunicacion/composicion-visual-en-inkscape.html",
+            "title": "Composición visual en inkscape",
+            "summary": "La composición que decidí realizar en inkscape, más allá de ser una&hellip;",
+            "content_html": "<p>La composición que decidí realizar en inkscape, más allá de ser una exploración del instrumento por primera vez, decidí dedicarme a la creación de la representación de mis sentimientos recientemente.</p>",
+            "author": {
+                "name": "Sara Pardo Gutiérrez"
+            },
+            "tags": [
+                   "Composición visual"
+            ],
+            "date_published": "2026-02-22T05:33:30-05:00",
+            "date_modified": "2026-02-22T05:33:30-05:00"
+        }
+    ]
+}

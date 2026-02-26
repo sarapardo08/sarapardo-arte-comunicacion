@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y comunicación</title>
+    <link href="https://sarapardo08.github.io/sarapardo-arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://sarapardo08.github.io/sarapardo-arte-comunicacion" />
+    <updated>2026-02-22T05:33:30-05:00</updated>
+    <author>
+        <name>Sara Pardo Gutiérrez</name>
+    </author>
+    <id>https://sarapardo08.github.io/sarapardo-arte-comunicacion</id>
+
+    <entry>
+        <title>Composición visual en inkscape</title>
+        <author>
+            <name>Sara Pardo Gutiérrez</name>
+        </author>
+        <link href="https://sarapardo08.github.io/sarapardo-arte-comunicacion/composicion-visual-en-inkscape.html"/>
+        <id>https://sarapardo08.github.io/sarapardo-arte-comunicacion/composicion-visual-en-inkscape.html</id>
+            <category term="Composición visual"/>
+
+        <updated>2026-02-22T05:33:30-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    La composición que decidí realizar en inkscape, más allá de ser una&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>La composición que decidí realizar en inkscape, más allá de ser una exploración del instrumento por primera vez, decidí dedicarme a la creación de la representación de mis sentimientos recientemente.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
