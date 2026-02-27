@@ -12,9 +12,9 @@
         {
             "id": "https://sarapardo08.github.io/sarapardo-arte-comunicacion/inkscape.html",
             "url": "https://sarapardo08.github.io/sarapardo-arte-comunicacion/inkscape.html",
-            "title": "Inkscape",
-            "summary": "Esta fue la primera vez que realicé una composición visual en inkscape,&hellip;",
-            "content_html": "<p>Esta fue la primera vez que realicé una composición visual en inkscape, fue principalmente una exploración de este medio de ilustración vectorial dado que no me relacionaba demasiado con los diferentes elementos de allí. La composición pese a estar realizada netamente de elementos primitivos, decidí dedicarme a la creación de un escenario en la que protagoniza una gallina dentro de una jaula, pero se puede divisar el cielo. La empleo como alegoría de mi estado actual en el que pese a tener la capacidad de ver el cielo y poder ver lo que es la libertad, me quedo encerrada en una malla eslabonada. Hice uso de los cuatro tipos de transformaciones de los elementos primitivos por medio de la exploración de las diferentes figuras: rotarlas, recortarlas, cambiar su color y saturación, disponerlas de diferentes maneras en el espacio, cambiarlas de tamaño y juntarlas, así al lograr una composición visual como resultado final. </p>",
+            "title": "Composición en Inkscape",
+            "summary": "Esta fue mi primera aproximación a una composición visual en Inkscape y&hellip;",
+            "content_html": "<p><span style=\"font-size: inherit;\">Esta fue mi primera aproximación a una composición visual en Inkscape y funcionó principalmente como una exploración del medio de ilustración vectorial, dado que no tenía mayor familiaridad con sus herramientas. A partir del uso exclusivo de elementos primitivos, construí un escenario en el que una gallina ocupa el centro de la composición, situada dentro de una jaula que, sin embargo, permite divisar el cielo.</span></p>\n<p data-start=\"790\" data-end=\"1000\">La escena de la composición opera como una alegoría de mi estado últimamente: aunque puedo percibir la posibilidad de libertad representada en la apertura hacia el cielo, permanezco contenida dentro de una malla eslabonada sin salir de ella. A su vez, la gallina funciona como símbolo, pues, pese a tener alas y la capacidad de volar, permanece dentro de la estructura que la limita.</p>\n<p data-start=\"1008\" data-end=\"1374\">Formalmente, exploré diversas transformaciones aplicadas a las formas básicas: rotación, recorte, variación de color y saturación, modificación de escala y organización espacial. Mediante la combinación y articulación de estos elementos, logré estructurar una composición que pone en diálogo la rigidez geométrica de la jaula con la apertura simbólica del horizonte.</p>",
             "image": "https://sarapardo08.github.io/sarapardo-arte-comunicacion/media/posts/3/PARDOcomposicioninkscape.svg",
             "author": {
                 "name": "Sara Pardo Gutiérrez"
@@ -23,7 +23,7 @@
                    "Composición visual"
             ],
             "date_published": "2026-02-26T03:36:34-05:00",
-            "date_modified": "2026-02-26T03:54:34-05:00"
+            "date_modified": "2026-02-26T20:20:56-05:00"
         }
     ]
 }
